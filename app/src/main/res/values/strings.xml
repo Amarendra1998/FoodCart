@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Food Cart</string>
+    <string name="welcome_to_foodcart">Welcome to Foodcart</string>
+    <string name="slogan">No matter where you are whether you are at home or in the office or on the beach.We will find you and we will feed you</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="tom_cruise">Tom Cruise</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_7236968358">7236968358</string>
+    <string name="signins">SignIn</string>
+    <string name="gh">Tome Cruise</string>
+    <string name="sdjbsdfjk">SignUp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="dasd">Place Order</string>
+    <string name="facebook_app_id">980039958846698</string>
+    <string name="facebook_login_protocol_name">fb980039958846698</string>
+    <string name="account_kit_client_token">6a2fc3df22214a1164e6e2af9837cc4a</string>
+    <string name="dvf">Email</string>
+</resources>
